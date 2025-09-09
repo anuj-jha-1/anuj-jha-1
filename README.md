@@ -1,54 +1,89 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuj-jha-1/anuj-jha-1/main/banner.png" alt="Anuj Jha | Full Stack Developer" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Anuj Kumar Jha</h1>
 <h3 align="center">💻 Full Stack App & Web Developer </h3>
 <h4 align="center">Crafting tomorrow's solutions with today's code — one commit at a time ✨</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuj-jha-1/anuj-jha-1/main/banner.png" alt="Anuj Jha | Full Stack Developer" />
+  <img src="https://komarev.com/ghpvc/?username=anuj-jha-1&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-jha-1" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anuj-jha-1&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-jha-1" /> </p>
+---
 
+## 🌟 About Me
+🚀 Passionate **Full Stack Web & App Developer** with hands-on experience in building scalable, user-friendly, and secure applications.  
+I specialize in the **MERN stack, SQL, and cloud technologies**, while keeping performance and clean code at the core of my work.  
 
-## 🌟 About Me:
-- 🔭 I’m currently working on **Full Stack Web Apps & Data Analytics Dashboards**
+- 🔭 Currently working on **Full Stack Web Apps & Data Analytics Dashboards**  
+- 🌱 Exploring **Advanced React (Next.js)** and **AWS Cloud**  
+- 👯 Open to collaborate on **Open-source projects & scalable web applications**  
+- 🤝 Looking for help with **optimizing large-scale DB queries & cloud deployments**  
+- 👨‍💻 Check out all my projects: [GitHub Profile](https://github.com/anuj-jha-1)  
+- 💬 Ask me about **Full Stack Development, SQL/Power BI, System Design**  
+- 📫 Reach me at **anujjha.dev@gmail.com**  
+- ⚡ Fun fact: **I love solving real-world problems with code and coffee ☕**  
 
-- 🌱 Currently exploring **Advanced React (Next.js), Cloud (AWS)**
+---
 
-- 👯 I’m looking to collaborate on **Open-source projects & scalable web applications**
+## 🛠️ Languages and Tools  
 
-- 🤝 I’m looking for help with **Optimizing large-scale database queries & cloud deployments**
+### 🌐 Frontend
+<p>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+</p>
 
-- 👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/anuj-jha-1)]([GitHub Profile](https://github.com/anuj-jha-1))
+### ⚙️ Backend
+<p>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+</p>
 
-- 💬 Ask me about **Full Stack Development, SQL/Power BI, and System Design Concepts**
+### 🗄️ Databases
+<p>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+</p>
 
-- 📫 How to reach me **anujjha.dev@gmail.com**
+### 🖥️ Programming Languages
+<p>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+</p>
 
-- ⚡ Fun fact **I love solving real-world problems with code and coffee ☕**
+---
 
-
-🛠️ Languages and Tools
-🌐 Frontend
-<p> <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> </p>
-⚙️ Backend
-<p> <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> </p>
-🗄️ Databases
-<p> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> </p>
-🖥️ Programming Languages
-<p> <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-jha-1&show_icons=true&locale=en&layout=compact" alt="anuj-jha-1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj-jha-1&show_icons=true&locale=en" alt="anuj-jha-1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-jha-1&" alt="anuj-jha-1" /></p>
-
-
-## 🔗 Connect with Me:
+## 📊 GitHub Stats
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/anujjha-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anujjha-dev" height="30" width="40" /></a>
-<a href="mailto:anujjha.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-jha-1&theme=radical" alt="streak stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-jha-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuj-jha-1&show_icons=true&locale=en&theme=radical" alt="GitHub stats" />
+</p>
+
+---
+
+## 🔗 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/anujjha-dev"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anujjha.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
 ⭐️ *Code is not just code — it’s the bridge between ideas and impact.* 🚀
