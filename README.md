@@ -1,36 +1,82 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center" style="color:#B9FD50;">🚀 Anuj Kumar Jha | Full Stack Developer 🚀</h1>
+<h3 align="center" style="color:#B9FD50;">Turning ideas into reality with code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-jha-1&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-jha-1" /> </p>
+![Creative and Minimal Portfolio Presentation](https://github.com/user-attachments/assets/64376240-3965-4688-bfcc-1127c5432f98)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj-jha-1" alt="anuj-jha-1" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Apps & Data Analytics Dashboards**
 
-- 🌱 I’m currently learning **Advanced React (Next.js), Cloud (AWS)**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuj-jha-1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 👯 I’m looking to collaborate on **Open-source projects & scalable web applications**
+---
 
-- 🤝 I’m looking for help with **Optimizing large-scale database queries & cloud deployments**
-
-- 👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/anuj-jha-1)]([GitHub Profile](https://github.com/anuj-jha-1))
-
-- 💬 Ask me about **Full Stack Development, SQL/Power BI, and System Design Concepts**
-
+## 🌟 About Me:
+- 🔭 Currently working on **Full Stack Web Apps & Data Analytics Dashboards**
+- 💼 Experienced **Freelancer** | Worked on multiple **client projects**
+- 🌎 Building a **Screen Time Tracker App** for digital well-being
+- 🔥 Passionate about **Animations & Modern UI**
+- 📱 Developing **React Native Apps**
+- 🎨 Exploring **Next.js & Tailwind CSS**
+- 💡 Learning **System Design & AI for Web**
+- 💬 Open to questions on **Full Stack Development, SQL/Power BI, and System Design Concepts** – feel free to connect!
 - 📫 How to reach me **anujjha.dev@gmail.com**
+- ⚡ Fun Fact: **I love solving real-world problems with code and coffee ☕**
 
-- ⚡ Fun fact **I love solving real-world problems with code and coffee ☕**
+---
 
+## 🚀 Tech Stack:
+### 🎨 Frontend:
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend:
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+### 🔗 Database:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🎨 UI/UX:
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devrahuljourney&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=#B9FD50&icon_color=#B9FD50&text_color=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrahuljourney&theme=dark&hide_border=false&fire=#B9FD50" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrahuljourney&theme=dark&hide_border=false&layout=compact&title_color=#B9FD50" />
+</p>
+
+---
+
+## 🔗 Connect with Me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anujjha-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anujjha-dev" height="30" width="40" /></a>
 </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🎯 Interests & Goals:
+- 🚀 **Building scalable applications**
+- 🎨 **Enhancing UI/UX with animations & motion effects**
+- 📱 **Creating cross-platform apps using React Native**
+- 🤖 **Exploring AI & ML for web development**
+- 💡 **Learning System Design & Performance Optimization**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-jha-1&show_icons=true&locale=en&layout=compact" alt="anuj-jha-1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj-jha-1&show_icons=true&locale=en" alt="anuj-jha-1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-jha-1&" alt="anuj-jha-1" /></p>
+---
+
+## ✍️ Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=devrahuljourney&icon=5&color=0)](https://visitcount.itsvg.in)
