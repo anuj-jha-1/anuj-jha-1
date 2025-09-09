@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Anuj Kumar Jha</h1>
+<h3 align="center">💻 Full Stack App & Web Developer </h3>
+<h4 align="center">Crafting tomorrow's solutions with today's code — one commit at a time ✨</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-jha-1&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-jha-1" /> </p>
 
@@ -35,3 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-jha-1&" alt="anuj-jha-1" /></p>
 
+---
+
+⭐️ *Code is not just code — it’s the bridge between ideas and impact.* 🚀
