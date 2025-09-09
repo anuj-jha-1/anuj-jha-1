@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuj-jha-1/anuj-jha-1/main/banner.png" alt="Anuj Jha | Full Stack Developer" />
+  <img src="https://raw.githubusercontent.com/anuj-jha-1/anuj-jha-1/main/banner.png.png" alt="Anuj Jha | Full Stack Developer" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Anuj Kumar Jha</h1>
