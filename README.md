@@ -2,9 +2,9 @@
 <h3 align="center">💻 Full Stack App & Web Developer </h3>
 <h4 align="center">Crafting tomorrow's solutions with today's code — one commit at a time ✨</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-jha-1&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-jha-1" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=anuj-jha-1&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-jha-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj-jha-1" alt="anuj-jha-1" /></a> </p>
+
 
 - 🔭 I’m currently working on **Full Stack Web Apps & Data Analytics Dashboards**
 
